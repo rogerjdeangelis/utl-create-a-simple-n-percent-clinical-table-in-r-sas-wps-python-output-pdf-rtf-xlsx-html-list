@@ -1,0 +1,13 @@
+   index      Category        Value   Placebo   Aspirin
+1      0                                 N=60      N=68
+2      1      AgeGroup        18-39  9(13.2%)   5(8.3%)
+3      2      AgeGroup        40-64   1(1.5%)   2(3.3%)
+4      3      AgeGroup        40-65   2(2.9%)   1(1.7%)
+5      4      AgeGroup        40-66   1(1.5%)   2(3.3%)
+6      5      AgeGroup          65+   4(5.9%)   5(8.3%)
+7      6     Ethnicity     Hispanic   5(7.4%) 12(20.0%)
+8      7     Ethnicity Non-Hispanic 12(17.6%)   3(5.0%)
+9      8 Followup_Flag            0 13(19.1%)   5(8.3%)
+10     9 Followup_Flag            1   4(5.9%) 10(16.7%)
+11    10        Gender            F 13(19.1%)  8(13.3%)
+12    11        Gender            M   4(5.9%)  7(11.7%)

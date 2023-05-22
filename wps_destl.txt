@@ -1,0 +1,19 @@
+Simple Clinical N Percent Table formated for Excel, List, Html, and PDF
+
+                                           Aspirin     Placebo 
+  Category       Value                     (N= 68 )    (N= 60 )
+                                                                                      
+  AgeGroup       18-39                     9(13.2%)    5(8.3%)   
+                 40-64                     1(1.5%)     2(3.3%)   
+                 40-65                     2(2.9%)     1(1.7%)   
+                 40-66                     1(1.5%)     2(3.3%)   
+                 65+                       4(5.9%)     5(8.3%)   
+                                                                                      
+  Ethnicity      Hispanic                  5(7.4%)     12(20.0%) 
+                 Non-Hispanic              12(17.6%)   3(5.0%)   
+                                                                                      
+  Followup_Flag  0                         13(19.1%)   5(8.3%)   
+                 1                         4(5.9%)     10(16.7%) 
+                                                                                      
+  Gender         F                         13(19.1%)   8(13.3%)  
+                 M                         4(5.9%)     7(11.7%)  
